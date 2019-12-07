@@ -1,0 +1,9 @@
+{
+"2": {"name": "herrywen", "age": 12, "tel": "1391231121", "password": "123456", "sex" : 1},
+"3": {"name": "jason", "age": 14, "tel": "13221312", "password": "123"},
+"4": {"name": "wenyun", "age": 34, "tel": "1231231312", "password": "123"},
+"5": {"name": "niuli", "age": 12, "tel": "123123123", "password": "123"},
+"6": {"name": "sangji", "age": 31, "tel": "12312313", "password": "123"},
+"7": {"name": "panliao", "age": 24, "tel": "121312312321", "password": "123"},
+"8": {"name": "liuhan", "age": 23, "tel": "1231231231", "password": "123", "sex" : 0}
+}

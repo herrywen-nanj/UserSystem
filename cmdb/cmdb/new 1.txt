@@ -1,0 +1,4 @@
+docker run -dit -p 3306:3306 -v /opt/docker_mysql/data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_USER=herrywen -e MYSQL_PASSWORD=herrywen -e MYSQL_DATABASE=user --name mysql mysql:5.7
+
+
+grant all on *.* to herrywen@'%'
